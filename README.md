@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Katie @KFarrow11
+- 👀 I’m interested in biology, medicine and epidemiology.
+- 🌱 I’m currently a student at the University of East Anglia studying Biomedicine
+- 👀 I'm learning Data science using R
