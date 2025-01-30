@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Katie @KFarrow11
+- 🌱 University of East Anglia BSc Biomedicine graduate 2024
+- 📊 University of East Anglia MSc Data Science for Biology student
 - 👀 I’m interested in biology, medicine and epidemiology.
-- 🌱 I’m currently a student at the University of East Anglia studying Biomedicine
-- 👀 I'm learning Data science using R
+- 👀 Love Data Visualisation and R coding
+- 👀 Learning Python and Power BI
